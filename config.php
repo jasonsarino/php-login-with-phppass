@@ -1,8 +1,8 @@
 <?php 
 define("HOST",               "localhost");
-define("USERNAME",           "root");
-define("PASSWORD",           "");
-define("DBNAME",             "phptutorial");
+define("USERNAME",           "u395220709_nice");
+define("PASSWORD",           "KDsjmw6iy1Ho");
+define("DBNAME",             "u395220709_php1");
 define("PORT",               "3306");
 
 $db = new mysqli(HOST, USERNAME, PASSWORD, DBNAME);
